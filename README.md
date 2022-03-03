@@ -25,6 +25,6 @@
 
 > ## 以太网通信
 
->> [套接字]()
+>> [套接字](https://github.com/jake167-wq/note/blob/main/%E5%A5%97%E6%8E%A5%E5%AD%97.md)
 
->> [EtherCAT]()
+>> [EtherCAT](https://github.com/jake167-wq/note/blob/main/EtherCat.md)

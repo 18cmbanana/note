@@ -25,6 +25,8 @@
 
 > ## 以太网通信
 
+![image.png](https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20181219%2F3860672b8238467995be59b2673a878b.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1648873606&t=b2eef27ef14b40f2b462c5a9e5608198)
+
 >> [套接字](https://github.com/jake167-wq/note/blob/main/%E5%A5%97%E6%8E%A5%E5%AD%97.md)
 
 >> [EtherCAT](https://github.com/jake167-wq/note/blob/main/EtherCat.md)

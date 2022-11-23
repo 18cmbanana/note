@@ -11,6 +11,8 @@
  MTPA最大扭矩控制
 [MTPA最大扭矩控制理论](https://github.com/jake167-wq/note/blob/main/MTPA%E6%9C%80%E5%A4%A7%E6%89%AD%E7%9F%A9%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA.md)
 
+[力控关节设计](https://github.com/18cmbanana/note/blob/main/%E5%8A%9B%E6%8E%A7%E5%85%B3%E8%8A%82.md)
+
  ### Matlab
 [Matlab基础](https://github.com/jake167-wq/note/blob/main/Matlab%E5%9F%BA%E7%A1%80.md)
 

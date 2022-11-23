@@ -8,7 +8,6 @@
  ### 算法笔记
  [积分抗饱和与快速退饱和](https://github.com/jake167-wq/note/blob/main/%E7%A7%AF%E5%88%86%E6%8A%97%E9%A5%B1%E5%92%8C%E4%B8%8E%E5%BF%AB%E9%80%9F%E9%80%80%E9%A5%B1%E5%92%8C.md)
 
- MTPA最大扭矩控制
 [MTPA最大扭矩控制理论](https://github.com/jake167-wq/note/blob/main/MTPA%E6%9C%80%E5%A4%A7%E6%89%AD%E7%9F%A9%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA.md)
 
 [力控关节设计](https://github.com/18cmbanana/note/blob/main/%E5%8A%9B%E6%8E%A7%E5%85%B3%E8%8A%82.md)
